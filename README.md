@@ -1,5 +1,3 @@
-
-
-“Hello, my name is Abhinav. I have completed my B.Tech and have around 1 year of experience working with Core Java, J2EE, and Spring Boot microservices. My work involved building and maintaining APIs, integrating databases like MySQL and MongoDB, and following agile practices. Along the way, I’ve also worked with Hibernate ORM, RESTful services, and MVC frameworks.
+“Hello, my name is Abhinav. I have completed my B.Tech and have around 1.5+ year of experience working with Core Java, J2EE, and Spring Boot microservices. My work involved building and maintaining APIs, integrating databases like MySQL and MongoDB, and following agile practices. Along the way, I’ve also worked with Hibernate ORM, RESTful services, and MVC frameworks.
 
 I enjoy problem-solving and regularly practice data structures and algorithms, especially in areas like heaps, sliding window, binary search, and graph traversal. For me, coding interviews are a chance to show structured thinking and clean problem-solving. I’m really excited to apply my knowledge at TO THE NEW, contribute to scalable solutions, and also continue sharpening my skills.”
